@@ -13,3 +13,6 @@ LINK:  https://spectrakcv2.vercel.app
 	7. click start 
 	8. wait to finish or click stop
 
+
+now faster
+
